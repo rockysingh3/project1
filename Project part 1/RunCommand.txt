@@ -1,0 +1,1 @@
+java SearchEngine -CorpusDir HtmlFile -InvertedIndex InvertedIndex.txt -StopList StopList.txt -Queries QueryFIle.txt -Results ResultFile.txt
